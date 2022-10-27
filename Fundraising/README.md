@@ -11,4 +11,4 @@
 - 프로젝트에 기부한 모든 사람들의 목록. (donation; mapping 데이터 타입; key)
 - 참여한 사람들의 기부금액. (donation; mapping 데이터 타입; value)
 - 기부금의 누적 총액 (raisedAmount).
-- 데드라인 (finishTime) : 목표액 도달까지 프로젝가 가지고 있는 시간.
+- 데드라인 (finishTime) : 목표액 도달까지 프로젝트가 가지고 있는 시간.
