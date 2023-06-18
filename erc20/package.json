@@ -1,0 +1,24 @@
+{
+  "name": "hardhat",
+  "version": "1.0.0",
+  "description": "```sh $ npm init -y $ npm i -D hardhat@2.12.6 $ npx hardhat ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/hardhat-upgrades": "^1.28.0",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.6",
+    "prettier-plugin-solidity": "^1.1.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "web3": "^4.0.1"
+  }
+}
